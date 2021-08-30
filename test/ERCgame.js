@@ -15,4 +15,13 @@ describe("Game", function () {
 //             value: ethers.utils.parseEther("10")});
 //         expect(await gameinstance.balanceOf(addr1)).to.equal()
 //   });
-});
+
+// describe("Deployment", function(){
+//     it('deploys sucessfully', async function(){
+//       const address = nft.address;
+//       expect(address).to.not.equal(0x0);
+//       expect(address).to.not.equal(null);
+//       expect(address).to.not.equal('');
+//       expect(address).to.not.equal(undefined);
+//       expect(address).to.not.equal(0x0);
+// });
